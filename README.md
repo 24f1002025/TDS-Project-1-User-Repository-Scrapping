@@ -21,7 +21,7 @@ The data was collected using GitHub's API, focusing on users in Zurich with over
 
 ## Data Scraping Methodology 🛠️
 
-The data was scraped using Python's `requests` library to interact with the GitHub API, focusing specifically on users located in Zurich with over 50 followers. The following techniques were employed to ensure efficient and reliable data collection:
+The data was scraped using Python's `requests` library to interact with the GitHub API. The following techniques were employed to ensure efficient and reliable data collection:
 
 1. **API Token Authentication**: A personal GitHub token was used to authenticate requests, allowing for higher rate limits and access to user details. This is crucial for scraping large datasets without hitting API restrictions.
 
